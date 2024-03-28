@@ -7,7 +7,7 @@
 
 - 🎓 In the pursuit of a Bachelor of Engineering degree in the field of **Computer Engineering**
 
-- 🔭 I’m currently working on **Scientific Calculator**
+- 🔭 I’m currently working on **BuzzDO**
 
 - 🌱 I’m currently learning **Frameworks**
 
